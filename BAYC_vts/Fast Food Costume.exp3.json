@@ -1,0 +1,10 @@
+{
+    "Type": "Live2D Expression",
+    "Parameters": [
+        {
+            "Id": "ParamFastFoodCostume",
+            "Value": "30",
+            "Blend": "Add"
+        }
+    ]
+}

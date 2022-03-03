@@ -1,0 +1,30 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "Bored ape.moc3",
+		"Textures": [
+			"Bored ape.4096/texture_00.png",
+			"Bored ape.4096/texture_01.png",
+			"Bored ape.4096/texture_02.png"
+		],
+		"Physics": "Bored ape.physics3.json",
+		"DisplayInfo": "Bored ape.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		}
+	]
+}

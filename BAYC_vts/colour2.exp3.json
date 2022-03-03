@@ -1,0 +1,10 @@
+{
+    "Type": "Live2D Expression",
+    "Parameters": [
+        {
+            "Id": "ParamColourToggle2",
+            "Value": "30",
+            "Blend": "Add"
+        }
+    ]
+}

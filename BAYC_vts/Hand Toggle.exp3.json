@@ -1,0 +1,10 @@
+{
+    "Type": "Live2D Expression",
+    "Parameters": [
+        {
+            "Id": "ParamHandToggle",
+            "Value": "30",
+            "Blend": "Add"
+        }
+    ]
+}

@@ -1,0 +1,425 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "ParamGroup",
+			"Name": "Angle X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "ParamGroup",
+			"Name": "Angle Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "ParamGroup",
+			"Name": "Angle Z"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "ParamGroup5",
+			"Name": "EyeL Open"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "ParamGroup5",
+			"Name": "EyeR Open"
+		},
+		{
+			"Id": "ParamEyeLSmile",
+			"GroupId": "ParamGroup5",
+			"Name": "EyeL Smile"
+		},
+		{
+			"Id": "ParamEyeRSmile",
+			"GroupId": "ParamGroup5",
+			"Name": "EyeR Smile"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "ParamGroup5",
+			"Name": "Eyeball X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "ParamGroup5",
+			"Name": "Eyeball Y"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"GroupId": "ParamGroup5",
+			"Name": "BrowL Y"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"GroupId": "ParamGroup5",
+			"Name": "BrowR Y"
+		},
+		{
+			"Id": "ParamBrowLX",
+			"GroupId": "ParamGroup5",
+			"Name": "BrowL X"
+		},
+		{
+			"Id": "ParamBrowRX",
+			"GroupId": "ParamGroup5",
+			"Name": "BrowR X"
+		},
+		{
+			"Id": "ParamBrowLAngle",
+			"GroupId": "ParamGroup5",
+			"Name": "BrowL Angle"
+		},
+		{
+			"Id": "ParamBrowRAngle",
+			"GroupId": "ParamGroup5",
+			"Name": "BrowR Angle"
+		},
+		{
+			"Id": "ParamBrowLForm",
+			"GroupId": "ParamGroup5",
+			"Name": "BrowL Form"
+		},
+		{
+			"Id": "ParamBrowRForm",
+			"GroupId": "ParamGroup5",
+			"Name": "BrowR Form"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "ParamGroup5",
+			"Name": "Mouth Form"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "ParamGroup5",
+			"Name": "Mouth Open"
+		},
+		{
+			"Id": "ParamCheek",
+			"GroupId": "ParamGroup5",
+			"Name": "Cheek"
+		},
+		{
+			"Id": "ParamBodyAngleX",
+			"GroupId": "ParamGroup3",
+			"Name": "Body X"
+		},
+		{
+			"Id": "ParamBodyAngleY",
+			"GroupId": "ParamGroup3",
+			"Name": "Body Y"
+		},
+		{
+			"Id": "ParamBodyAngleZ",
+			"GroupId": "ParamGroup3",
+			"Name": "Body Z"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "ParamGroup3",
+			"Name": "Breath"
+		},
+		{
+			"Id": "ParamHairFront",
+			"GroupId": "ParamGroup6",
+			"Name": "Hair Move Front"
+		},
+		{
+			"Id": "ParamHairSide",
+			"GroupId": "ParamGroup6",
+			"Name": "Hair Move Side"
+		},
+		{
+			"Id": "ParamBodyHair",
+			"GroupId": "ParamGroup6",
+			"Name": "BodyHair"
+		},
+		{
+			"Id": "ParamEyelidClose",
+			"GroupId": "ParamGroup2",
+			"Name": "Eyelid close"
+		},
+		{
+			"Id": "ParamEyechange",
+			"GroupId": "ParamGroup2",
+			"Name": "Eyechange"
+		},
+		{
+			"Id": "ParamFastFoodCostume",
+			"GroupId": "ParamGroup2",
+			"Name": "Fast food Costume"
+		},
+		{
+			"Id": "ParamHandToggle",
+			"GroupId": "ParamGroup2",
+			"Name": "Hand toggle"
+		},
+		{
+			"Id": "ParamHandWave",
+			"GroupId": "ParamGroup2",
+			"Name": "HandWave"
+		},
+		{
+			"Id": "ParamHandWave2",
+			"GroupId": "ParamGroup2",
+			"Name": "HandWave2"
+		},
+		{
+			"Id": "ParamStubbleBeard",
+			"GroupId": "ParamGroup2",
+			"Name": "StubbleBeard"
+		},
+		{
+			"Id": "ParamGoldToggle",
+			"GroupId": "ParamGroup2",
+			"Name": "Gold toggle"
+		},
+		{
+			"Id": "ParamColourToggle",
+			"GroupId": "ParamGroup2",
+			"Name": "Colour toggle 1"
+		},
+		{
+			"Id": "ParamColourToggle2",
+			"GroupId": "ParamGroup2",
+			"Name": "Colour toggle 2"
+		},
+		{
+			"Id": "ParamColourToggle3",
+			"GroupId": "ParamGroup2",
+			"Name": "Colour toggle 3"
+		},
+		{
+			"Id": "ParamColourToggle4",
+			"GroupId": "ParamGroup2",
+			"Name": "Colour toggle 4"
+		},
+		{
+			"Id": "ParamColourToggle5",
+			"GroupId": "ParamGroup2",
+			"Name": "Colour toggle 5"
+		},
+		{
+			"Id": "ParamColourToggle6",
+			"GroupId": "ParamGroup2",
+			"Name": "Colour toggle 6"
+		},
+		{
+			"Id": "ParamColourToggle7",
+			"GroupId": "ParamGroup2",
+			"Name": "Colour toggle 7"
+		},
+		{
+			"Id": "ParamColourToggle8",
+			"GroupId": "ParamGroup2",
+			"Name": "Colour toggle 8"
+		},
+		{
+			"Id": "ParamColourToggle9",
+			"GroupId": "ParamGroup2",
+			"Name": "Colour toggle 9"
+		},
+		{
+			"Id": "ParamColourToggle10",
+			"GroupId": "ParamGroup2",
+			"Name": "Colour toggle 10"
+		},
+		{
+			"Id": "ParamBigSmile",
+			"GroupId": "ParamGroup4",
+			"Name": "Big Smile"
+		},
+		{
+			"Id": "ParamLaserEye",
+			"GroupId": "ParamGroup4",
+			"Name": "LaserEye"
+		},
+		{
+			"Id": "ParamTextBubble",
+			"GroupId": "ParamGroup4",
+			"Name": "Text Bubble"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "Face"
+		},
+		{
+			"Id": "ParamGroup5",
+			"GroupId": "",
+			"Name": "Face Motion"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "Body"
+		},
+		{
+			"Id": "ParamGroup6",
+			"GroupId": "",
+			"Name": "Physics"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "Toggles"
+		},
+		{
+			"Id": "ParamGroup4",
+			"GroupId": "",
+			"Name": "Expressions"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part40",
+			"Name": "Bored ape New.psd"
+		},
+		{
+			"Id": "Clothes",
+			"Name": "Clothes"
+		},
+		{
+			"Id": "Part5",
+			"Name": "Mouth + stubble"
+		},
+		{
+			"Id": "Eyes",
+			"Name": "Eyes"
+		},
+		{
+			"Id": "Part26",
+			"Name": "Speech bubble"
+		},
+		{
+			"Id": "Laser",
+			"Name": "Laser"
+		},
+		{
+			"Id": "Part",
+			"Name": "Smiling mouth"
+		},
+		{
+			"Id": "Hands2",
+			"Name": "Hands"
+		},
+		{
+			"Id": "Eyelids2",
+			"Name": "Eyelids"
+		},
+		{
+			"Id": "Head2",
+			"Name": "Head"
+		},
+		{
+			"Id": "BODY2",
+			"Name": "BODY"
+		},
+		{
+			"Id": "Part6",
+			"Name": "Upper lip and teeth copy"
+		},
+		{
+			"Id": "Part7",
+			"Name": "Lower lip and teeth copy"
+		},
+		{
+			"Id": "Part8",
+			"Name": "Stubble jaw"
+		},
+		{
+			"Id": "Part9",
+			"Name": "Throat and tongue copy"
+		},
+		{
+			"Id": "Part10",
+			"Name": "Right eye"
+		},
+		{
+			"Id": "Part2",
+			"Name": "Upper lip smiling"
+		},
+		{
+			"Id": "Part3",
+			"Name": "lower lip smiling"
+		},
+		{
+			"Id": "Part4",
+			"Name": "Tongue and throat"
+		},
+		{
+			"Id": "Part27",
+			"Name": "hand fur"
+		},
+		{
+			"Id": "Part38",
+			"Name": "Right Ear"
+		},
+		{
+			"Id": "Part16",
+			"Name": "warna 6"
+		},
+		{
+			"Id": "Part17",
+			"Name": "warna 7"
+		},
+		{
+			"Id": "Part19",
+			"Name": "warna 9"
+		},
+		{
+			"Id": "Part39",
+			"Name": "Left Ear"
+		},
+		{
+			"Id": "Part13",
+			"Name": "warna 3"
+		},
+		{
+			"Id": "Part12",
+			"Name": "warna 2"
+		},
+		{
+			"Id": "Part18",
+			"Name": "warna 8"
+		},
+		{
+			"Id": "Base",
+			"Name": "Base"
+		},
+		{
+			"Id": "Part14",
+			"Name": "warna 4"
+		},
+		{
+			"Id": "Part15",
+			"Name": "warna 5"
+		},
+		{
+			"Id": "Part20",
+			"Name": "warna 10"
+		},
+		{
+			"Id": "Part21",
+			"Name": "warna 11"
+		},
+		{
+			"Id": "Part11",
+			"Name": "warna 1"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"ParamAngleX",
+			"ParamAngleY"
+		],
+		[
+			"ParamEyeBallX",
+			"ParamEyeBallY"
+		]
+	]
+}
